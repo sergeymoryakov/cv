@@ -63,10 +63,14 @@ section h2 {
     padding-bottom: 0.5em;
 }
 
+.profile-txt {
+    line-height: 1.5em;
+}
+
 section p,
 section a {
+    margin-bottom: 0.5em;
     font-size: 1em;
-    line-height: 1.5em;
     color: #555;
     text-align: justify;
     text-decoration: none;
