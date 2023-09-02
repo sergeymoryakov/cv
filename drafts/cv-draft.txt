@@ -6,26 +6,46 @@ LinkedIn: https://www.linkedin.com/in/sergey-moryakov
 GitHub: https://github.com/sergeymoryakov
 
 PROFILE (FOR CV)
+- /*** ***/
 Software developer with an aviation background. Currently expanding expertise through web development projects, a front-end development bootcamp, and the CS50W course by HarvardX. I aim to leverage my aviation industry experience in aircraft maintenance, powerplant engineering, engine fleet management, customer service, and international sales to excel in a software developer role.
 
 ABOUT (FOR LINKEDIN)
+- /*** ***/
 Thank you for visiting my LinkedIn page!
 I am an experienced aviation professional with technical and commercial background within the airline, manufacturing, and services sectors.
 Recently, I embarked on a new journey in software development. 
 If you are looking for a dedicated partner to collaborate on aviation software projects, I would be thrilled to connect and discuss potential opportunities. Please feel free to reach out to me.
 
 EXPERIENCE (SHORT)
+- /*** ***/
+Software Developer Trainee, MORYAKOV Oy, Helsinki, Finland, 2022 - Present
 Founder and Aviation Consultant (Engine Management), MORYAKOV Oy, Helsinki, Finland, 2020 - Present
 VP Sales & Customer Service, GA Telesis Engine Services Oy, Helsinki, Finland, 2018 - 2020
 Regional Sales Director, GE Aviation, Moscow, Russia, 2008 - 2018
 Field Service Program Manager, GE Aviation, Moscow, Russia, 2005 - 2008
-Aircraft Maintenance and Powerplant Management, TRANSAERO Airlines, Moscow, Russia, 1998 - 2005
+Powerplant Manager, TRANSAERO Airlines, Moscow, Russia, 2003 - 2005
+Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines, Moscow, Russia, 1998 - 2003
+Reservation Control Specialist, TRANSAERO Airlines, Moscow, Russia, 1997 -1998
 
 EXPERIENCE (DETAILED)
+September 2022 – Current
+Software Developer Trainee
+MORYAKOV Oy, Helsinki, Finland
+https://www.moryakov.pro/
+/*** Advanced learning ***/
+Accomplishments:
+- /*** ***/
+
 September 2020 – Current
 Founder and Aviation Consultant (Engine Management)
 MORYAKOV Oy, Helsinki, Finland
-Offer consulting services in aeroengine management, asset selection and evaluation, preparation for delivery and re-delivery, asset records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management (https://www.moryakov.pro/).
+https://www.moryakov.pro/
+Offer consulting services in aeroengine management, aviation asset selection and evaluation, preparation for aircraft/einges delivery and re-delivery, asset records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management.
+Accomplishments:
+- /*** Marketing, representation amd board advisory 2023 ***/
+- /*** Engine search and purchase 2022 ***/
+- /*** ENGINE CAMO Training 2021 ***/
+- /*** AC acceptance 2021 ***/
 
 May 2018 – August 2020
 VP Sales & Customer Service
