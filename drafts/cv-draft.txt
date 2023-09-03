@@ -3,7 +3,6 @@ Helsinki, Finland
 Mobile: +358 40 6491511
 Email: sergey@moryakov.com
 LinkedIn: https://www.linkedin.com/in/sergey-moryakov
-GitHub: https://github.com/sergeymoryakov
 
 PROFILE (FOR CV)
 - /*** ***/
@@ -24,14 +23,14 @@ VP Sales & Customer Service, GA Telesis Engine Services Oy, Helsinki, Finland, 2
 Regional Sales Director, GE Aviation, Moscow, Russia, 2008 - 2018
 Field Service Program Manager, GE Aviation, Moscow, Russia, 2005 - 2008
 Powerplant Manager, TRANSAERO Airlines, Moscow, Russia, 2003 - 2005
-Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines, Moscow, Russia, 1998 - 2003
+Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines, Moscow, Russia, 1998 – 2003
 Reservation Control Specialist, TRANSAERO Airlines, Moscow, Russia, 1997 -1998
 
 EXPERIENCE (DETAILED)
 September 2022 – Current
 Software Developer Trainee
 MORYAKOV Oy, Helsinki, Finland
-https://www.moryakov.pro/
+https://github.com/sergeymoryakov
 /*** Advanced learning ***/
 Accomplishments:
 - /*** ***/
@@ -40,12 +39,14 @@ September 2020 – Current
 Founder and Aviation Consultant (Engine Management)
 MORYAKOV Oy, Helsinki, Finland
 https://www.moryakov.pro/
-Offer consulting services in aeroengine management, aviation asset selection and evaluation, preparation for aircraft/einges delivery and re-delivery, asset records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management.
+Offer consulting services in commercial aircraft engine management, asset selection and evaluation, preparation for aircraft/engines delivery and re-delivery, records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management.
 Accomplishments:
-- /*** Marketing, representation amd board advisory 2023 ***/
-- /*** Engine search and purchase 2022 ***/
-- /*** ENGINE CAMO Training 2021 ***/
-- /*** AC acceptance 2021 ***/
+- /*** Independent aviation consulting to investors community in US and UK, 2021 - 2023 ***/
+- /*** Marketing and board advisory to private consulting firm in EU, 2022 - 2023 ***/
+- /*** A330 aircraft mid-term inspection on behalf of EU consulting company, 2022 ***/
+- /*** CF6 engine sale assistance to EU investor, 2021 - 2022 ***/
+- /*** Aircraft engine CAMO training development and lecturing for private aviation training center in Kazakhstan, 2021 ***/
+- /*** B737NG engine records review for aircraft acceptance for private airline in CIS region, 2021 ***/
 
 May 2018 – August 2020
 VP Sales & Customer Service
@@ -53,8 +54,8 @@ GA Telesis Engine Services Oy (GATES), Helsinki, Finland
 https://www.gatelesis.com/gat-engine-services/
 Did lead Global sales and customer service team by looking after sales strategy, crafting the company’s growth plan, and actively participating in development of integrated customer solutions.
 Accomplishments:
-- Succesfully lead the team to achieve double-digit revenue growth target.
-- Managed to carry out unevenful team migration to the new CRM platform.
+- Successfully lead the team to achieve double-digit revenue growth target.
+- Managed to carry out uneventful team migration to the new CRM platform.
 
 October 2008 – May 2018
 Regional Sales Director
@@ -73,27 +74,27 @@ https://www.geaviation.com/
 Did serve as a first contact and a GE Aviation products expert for all GE customers in region.
 Accomplishments:
 - Provided support to about 30 customers in region covering fleet of a few hundred of flying engines.
-- Succesfully lead resolving of multiple AOG situations for local and transit customers. Was awarded for a team work with Snecma (Safran) to solve AOG case in 2006.
-- Assisted regional sales team in promoting GE brand, products, and services converted to succesfull execution of the short and long term services agreements.
+- Successfully lead resolving of multiple AOG situations for local and transit customers. Was awarded for a teamwork with Snecma (Safran) to solve AOG case in 2006.
+- Assisted regional sales team in promoting GE brand, products, and services converted to successful execution of the short- and long-term services agreements.
 
 May 2003 – April 2005
 Powerplant Manager
 TRANSAERO Airlines, Moscow, Russia
 http://www.transaero.com/
-Was responsible to carry out aircraft engine fleet managment duties including but not limiting to continuous airworthiness management, engineering, planning, and engine condition monitoring.
+Was responsible to carry out aircraft engine fleet management duties including but not limiting to continuous airworthiness management, engineering, planning, and engine condition monitoring.
 Accomplishments:
-- Succesfully hired and lead a team of engine management professionals to support growing fleet of 200+ propulsion and auxiluary engines.
-- Did lead engine shop visit planning and management initiatives to optimise airline operational cost.
-- Introduced 24/7 engineering support to minimise airline operation disruptions.
+- Successfully hired and lead a team of engine management professionals to support growing fleet of 200+ propulsion and auxiliary engines.
+- Did lead engine shop visit planning and management initiatives to optimize airline operational cost.
+- Introduced 24/7 engineering support to minimize airline operation disruptions.
 
 February 1998 – May 2003
 Aircraft Maintenance Technician/Engineer
 TRANSAERO Airlines, Moscow, Russia
 http://www.transaero.com/
-Carried out aircraft line and base maintenence in accordance with Russian and EU Aviation Regulation.
+Carried out aircraft line and base maintenance in accordance with Russian and EU Aviation Regulation.
 Accomplishments:
 - Was certified as a B1 category maintenance staff for B737ADV, B737NG and 767(GE, PW) aircraft types.
-- Succesfully completed assigned out-of-base aircraft maintenance missions.
+- Successfully completed assigned out-of-base aircraft maintenance missions.
 - Supported airline engineering team in preparing customized maintenance cards.
 
 April 1997 – February 1998
@@ -102,7 +103,7 @@ TRANSAERO Airlines, Moscow, Russia
 Served as an on-duty reservation officer supporting passenger and cargo reservation process. 
 Accomplishments:
 - In a short period of time did learn Gabriel reservation system to carry out daily activity.
-- Succesfully assisted airline revenue management and operation control departments.
+- Successfully assisted airline revenue management and operation control departments.
 
 EDUCATION
 Master of Engineering and Technology (Honors), Specialty in Operation of Aerospace Equipment, Moscow State Technical University of Civil Aviation, 1998.
@@ -111,7 +112,6 @@ Assembly, Fortran and C Programmer, Moscow High School 160, 1992.
 
 DIGITAL TRAININGS AND CERTIFICATIONS
 CS50 Introduction to Computer Science, HarvardX, 2023.
-Licenses & certifications
 Building AI Products with OpenAI, Uplimit (Formerly CoRise), 2023.
 Front-End Development Bootcamp, SD.CODE, 2023 - current.
 CS50W Web Programming with Python and JavaScript, HarvardX, 2023 - current. 
