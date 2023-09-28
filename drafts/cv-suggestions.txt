@@ -1,0 +1,59 @@
+Your CV looks comprehensive, and you've included a good amount of detail about your experience, skills, and accomplishments. Here are some comments and suggestions for improvement:
+
+1. **Profile Section (CV):**
+   - Consider rephrasing the sentence: "I aim to leverage my aviation industry experience..." to make it more concise. For example: "Leveraging my extensive aviation background to excel in software development."
+
+2. **About Section (LinkedIn):**
+   - Your LinkedIn "About" section looks good, but you can enhance it by specifying your key skills or interests related to aviation and software development. This will give visitors a quick idea of your expertise.
+
+3. **Software Developer Trainee (Detailed):**
+   - The section looks good and provides a clear overview of your current role and accomplishments.
+   - You might want to include the expected completion date for the CS50W course by HarvardX, as it's marked as "ongoing training."
+   - Consider adding a brief sentence about your goals or what you hope to achieve as a software developer trainee.
+
+4. **Founder and Aviation Consultant (Engine Management):**
+   - The accomplishments are detailed and impressive. However, you can make them more reader-friendly by bullet-pointing them for better readability.
+   - Mention the duration of your "independent aviation consulting to investors community in US and UK" for clarity.
+   - Provide a brief summary sentence at the beginning to introduce this section, such as: "As the founder of MORYAKOV Oy, I offer comprehensive aviation consulting services..."
+
+5. **VP Sales & Customer Service:**
+   - Consider providing a brief introductory sentence or two to give context to this role before listing accomplishments.
+   - Bullet-pointing the accomplishments can make them stand out and be more scannable.
+
+6. **Regional Sales Director:**
+   - Similar to the previous suggestion, include a brief introductory sentence or two about your role before listing accomplishments.
+   - Consider using bullet points for the accomplishments to make them more concise.
+
+7. **Field Service Program Manager:**
+   - Bullet points would help make the accomplishments more reader-friendly.
+
+8. **Powerplant Manager:**
+   - Mention the approximate size of the engine fleet you managed for added context.
+   - Use bullet points for accomplishments to make them more scannable.
+
+9. **Aircraft Maintenance Technician/Engineer:**
+   - Specify the types of tasks you performed as a maintenance technician/engineer for added clarity.
+
+10. **Reservation Control Specialist:**
+    - Similar to other roles, consider bullet-pointing your accomplishments for easier readability.
+
+11. **Digital Trainings and Certifications:**
+    - This section is well-structured and provides a clear overview of your digital skills and certifications.
+
+12. **Aviation Licenses, Certifications, and Trainings:**
+    - Consider using bullet points to list these items for better readability.
+    - Specify the relevance or significance of each certification to your career.
+
+13. **Corporate & Leadership Trainings:**
+    - Bullet points can make your leadership training accomplishments more scannable.
+
+14. **Other Trainings and Certifications:**
+    - Bullet points would improve readability in this section as well.
+
+15. **Languages:**
+    - Consider specifying your proficiency level in Finnish (Basic) for clarity.
+
+16. **Interests:**
+    - You may want to elaborate a bit more on your interests, particularly how they relate to your career or personal growth.
+
+Overall, your CV provides a comprehensive view of your career and skills. Adding bullet points and brief introductory sentences can make it even more reader-friendly. Additionally, consider tailoring your CV to the specific job or industry you're applying to, emphasizing the most relevant skills and experiences for each application.

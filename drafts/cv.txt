@@ -1,0 +1,173 @@
+SERGEY MORYAKOV
+Helsinki, Finland
+Mobile: +358 40 6491511
+Email: sergey@moryakov.com
+LinkedIn: https://www.linkedin.com/in/sergey-moryakov
+
+PROFILE (FOR CV)
+/*** 
+Software developer with an aviation background. Currently expanding expertise through web development projects, a front-end development bootcamp, and the CS50W course by HarvardX. I aim to leverage my aviation industry experience in aircraft maintenance, powerplant engineering, engine fleet management, customer service, and international sales to excel in a software developer role.
+***/
+
+ABOUT (FOR LINKEDIN)
+/*** 
+Thank you for visiting my LinkedIn page!
+I am an experienced aviation professional with technical and commercial background within the airline, manufacturing, and services sectors.
+Recently, I embarked on a new journey in software development. 
+If you are looking for a dedicated partner to collaborate on aviation software projects, I would be thrilled to connect and discuss potential opportunities. Please feel free to reach out to me.
+***/
+
+EXPERIENCE (SHORT)
+Software Developer Trainee, MORYAKOV Oy, Helsinki, Finland, 2022 - Present
+Founder and Aviation Consultant (Engine Management), MORYAKOV Oy, Helsinki, Finland, 2020 - Present
+VP Sales & Customer Service, GA Telesis Engine Services Oy, Helsinki, Finland, 2018 - 2020
+Regional Sales Director, GE Aviation, Moscow, Russia, 2008 - 2018
+Field Service Program Manager, GE Aviation, Moscow, Russia, 2005 - 2008
+Powerplant Manager, TRANSAERO Airlines, Moscow, Russia, 2003 - 2005
+Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines, Moscow, Russia, 1998 – 2003
+Reservation Control Specialist, TRANSAERO Airlines, Moscow, Russia, 1997 -1998
+
+EXPERIENCE (DETAILED)
+September 2022 – Current
+Software Developer Trainee
+MORYAKOV Oy, Helsinki, Finland
+Actively engaged in acquiring foundational knowledge and practical skills in software development. Responsibilities include learning, coding, debugging, and collaborating with senior developers and mentors on various projects.
+Accomplishments:
+- Completed a series of comprehensive courses, which covered a wide range of technologies, including C, Python, HTML, CSS, JavaScript, Bootstrap, SQLite, Jinja, Flask, GitHub, Firebase, Parcel, and React.JS. These courses include:
+  - CS50 Introduction to Computer Science, HarvardX, 2023;
+  - Front-End Development Bootcamp, SD.CODE, 2023;
+  - Building AI Products with OpenAI, Uplimit, 2023.
+- Developed several web applications, showcasing proficiency in these technologies. GitHub portfolio: https://github.com/sergeymoryakov.
+
+September 2020 – Current
+Founder and Aviation Consultant (Engine Management)
+MORYAKOV Oy, Helsinki, Finland
+https://www.moryakov.pro/
+As the founder of MORYAKOV Oy, offer consulting services in commercial aircraft engine management, asset selection and evaluation, preparation for aircraft/engines delivery and re-delivery, records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management.
+Accomplishments:
+- Independent aviation consulting to investors community in US and UK, 2021 - 2023;
+- Marketing and board advisory to private consulting firm in EU, 2022 - 2023;
+- A330 aircraft mid-term inspection on behalf of EU consulting company, 2022;
+- CF6 engine sale assistance to EU investor, 2021 - 2022;
+- Aircraft engine CAMO training development and lecturing for private aviation training center in Kazakhstan, 2021;
+- B737NG engine records review for aircraft acceptance for private airline in CIS region, 2021.
+
+May 2018 – August 2020
+VP Sales & Customer Service
+GA Telesis Engine Services Oy (GATES), Helsinki, Finland
+https://www.gatelesis.com/gat-engine-services/
+Did lead Global sales and customer service team by looking after sales strategy, crafting the company’s growth plan, and actively participating in development of integrated customer solutions.
+Accomplishments:
+- Successfully lead the team to achieve double-digit revenue growth target.
+- Managed to carry out uneventful team migration to the new CRM platform.
+
+October 2008 – May 2018
+Regional Sales Director
+GE Aviation, Moscow, Russia
+https://www.geaviation.com/
+Acted as a sales and business development leader for GE Aviation business unit in Russia and CIS region focusing in identifying new business opportunities and solving customer concerns.
+Accomplishments:
+- Did build customer relationship, identified new business opportunities and developed sales plan for commercial aircraft engines and services.
+- Did lead the team to win majority of strategic campaigns in assigned region resulted with total sales of 200+ new aircraft engines and closing services contracts for about $800MM.
+- Supported cross-business opportunities to promote GE brand, win business and market share for entire GE portfolio.
+
+April 2005 – October 2008
+Field Service Program Manager
+GE Aviation, Moscow, Russia
+https://www.geaviation.com/
+Did serve as a first contact and a GE Aviation products expert for all GE customers in region.
+Accomplishments:
+- Provided support to about 30 customers in region covering fleet of a few hundred of flying engines.
+- Successfully lead resolving of multiple AOG situations for local and transit customers. Was awarded for a teamwork with Snecma (Safran) to solve AOG case in 2006.
+- Assisted regional sales team in promoting GE brand, products, and services converted to successful execution of the short- and long-term services agreements.
+
+May 2003 – April 2005
+Powerplant Manager
+TRANSAERO Airlines, Moscow, Russia
+http://www.transaero.com/
+Was responsible to carry out aircraft engine fleet management duties including but not limiting to continuous airworthiness management, engineering, planning, and engine condition monitoring.
+Accomplishments:
+- Successfully hired and lead a team of engine management professionals to support growing fleet of 200+ propulsion and auxiliary engines.
+- Did lead engine shop visit planning and management initiatives to optimize airline operational cost.
+- Introduced 24/7 engineering support to minimize airline operation disruptions.
+
+February 1998 – May 2003
+Aircraft Maintenance Technician/Engineer
+TRANSAERO Airlines, Moscow, Russia
+http://www.transaero.com/
+Carried out aircraft line and base maintenance in accordance with Russian and EU Aviation Regulation.
+Accomplishments:
+- Was certified as a B1 category maintenance staff for B737ADV, B737NG and 767(GE, PW) aircraft types.
+- Successfully completed assigned out-of-base aircraft maintenance missions.
+- Supported airline engineering team in preparing customized maintenance cards.
+
+April 1997 – February 1998
+Reservation Control Specialist
+TRANSAERO Airlines, Moscow, Russia
+Served as an on-duty reservation officer supporting passenger and cargo reservation process. 
+Accomplishments:
+- In a short period of time did learn Gabriel reservation system to carry out daily activity.
+- Successfully assisted airline revenue management and operation control departments.
+
+EDUCATION
+Master of Engineering and Technology (Honors), Specialty in Operation of Aerospace Equipment, Moscow State Technical University of Civil Aviation, 1998.
+Bachelor of Engineering and Technology, Specialty in Operation of Aerospace Equipment, Moscow State Technical University of Civil Aviation, 1996.
+Assembly, Fortran and C Programmer, Moscow High School 160, 1992.
+
+DIGITAL TRAININGS AND CERTIFICATIONS
+CS50 Introduction to Computer Science, HarvardX, 2023.
+Building AI Products with OpenAI, Uplimit (Formerly CoRise), 2023.
+Front-End Development Bootcamp, SD.CODE, 2023 - current.
+CS50W Web Programming with Python and JavaScript, HarvardX, 2023 - current. 
+
+DIGITAL AND ICT EXPERIENCE
+VS Code, Git, GitHub
+C, Python, Fortran, Assembly
+HTML, CSS, JavaScript, Bootstrap
+SQLite, Firebase
+Parcel
+Jinja 
+Flask, React.JS, Django – ongoing training
+Colab
+ChatGPT, Bard, DALL-E, Midjourney
+Office365, Google Apps
+Slack, Zoom, Teams, Skype, Discord
+SalesForce.com, Bitrix24, Insightly
+
+AVIATION LICENSES, CERTIFICATIONS AND TRAININGS
+EASA Remote Pilot Certificate (A1/A2/A3), issued 2022, valid till 2027.
+Aircraft Maintenance License, issued 1998, no expiration date.
+EASA Part 66 Module 9 Human Factors and Module 10 Aviation Legislation, - Lithuanian Airlines, 2004
+Boeing 767-200/-300 Line and Base Maintenance, - Lufthansa Training, 2002
+CF6-80C2/-80E Line and Base Maintenance - GE CTEC, 2005/2008
+GE90-115B Line and Base Maintenance - GE CTEC, 2012
+PW4060 Line and Base Maintenance – CAE, 2003
+Engine Fleet Management - P&W CTC, 2003 
+Engine Health Monitoring - P&W CTC, 2003
+Engine Design & Repair - P&W CTC, 2003
+Engine Failure Analysis - P&W CTC, 2003.
+
+CORPORATE & LEADERSHIP TRAININGS
+Leadership Development Course – GE Crotonville, 2014
+New Manager Development Course - GE Crotonville, 2012
+Presentations Skills - GE Crotonville, 2008
+Influencing Skills - GE Crotonville, 2006
+Effective Coaching Skills - GE Crotonville, 2006l 
+Six Sigma Certification / Green Belt - GE Crotonville, 2005.
+
+OTHER TRAININGS AND CERTIFICATIONS
+Driver License (Cat. B), issued 2000, valid till 2034.
+Finnish Language Course, Eira High School for Adults, 08/2020 – 06/2022.
+Initial Teacher’s Training, issued 2021, no expiration date.
+Occupational Safety Card, issued 2019, valid till 2024.
+
+LANGUAGES
+English (Fluent)
+Finnish (Basic)
+Russian (Native)
+
+INTERESTS
+Software Development
+Commercial Aviation
+Unmanned Aerial Systems (Drones)
+Travels
