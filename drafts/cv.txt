@@ -121,14 +121,12 @@ Front-End Development Bootcamp, SD.CODE, 2023 - current.
 CS50W Web Programming with Python and JavaScript, HarvardX, 2023 - current. 
 
 DIGITAL AND ICT EXPERIENCE
-VS Code, Git, GitHub
-C, Python, Fortran, Assembly
-HTML, CSS, JavaScript, Bootstrap
+HTML, CSS, JavaScript, Bootstrap, Figma, Pixel Perfect
 SQLite, Firebase
-Parcel
-Jinja 
-Flask, React.JS, Django – ongoing training
-Colab
+Parcel, Vite
+C, Python, Jinja, Fortran, Assembly
+React.JS, Flask, Django
+VS Code, Git, GitHub, Colab
 ChatGPT, Bard, DALL-E, Midjourney
 Office365, Google Apps
 Slack, Zoom, Teams, Skype, Discord
