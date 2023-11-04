@@ -14,7 +14,7 @@ Software Developer, MORYAKOV Oy, Helsinki, Finland, 2022 – Present
 After successful completion of a series of comprehensive courses, such as CS50 Introduction to Computer Science by HarvardX, Building AI Products with OpenAI by Uplimit, and others, actively participate in projects as a front-end developer. Enjoy engagement with customers, designers, and experienced mentors for feedback and code optimization.
 Recent Projects (Technologies):
 •	Web studio website building and test deployment (HTML, CSS, Figma, Pixel Perfect, Javascript).
-•	Aviation eCommerce website prototyping test deployment (Javascript, Parcel, Rest API, Firestore).
+•	Aviation eCommerce website prototyping and test deployment (Javascript, Parcel, Rest API, Firestore).
 •	Aviation Consulting Agency website development (HTML, CSS, Figma, Typescript, Vite, React.JS).
 
 Founder and Aviation Consultant, MORYAKOV Oy, Helsinki, Finland, 2020 – Present
