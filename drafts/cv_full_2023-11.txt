@@ -10,14 +10,14 @@ Front-end Developer with aviation engineering team lead experience, commercial a
 Hungry to learn new technologies with passion to develop turnkey applications to address customer needs.
 
 EXPERIENCE
-Software Developer, MORYAKOV Oy, Helsinki, Finland (Summer 2022 – Present)
+Software Developer, MORYAKOV Oy, Helsinki, Finland, 2022 – Present
 After successful completion of a series of comprehensive courses, such as CS50 Introduction to Computer Science by HarvardX, Building AI Products with OpenAI by Uplimit, and others, actively participate in projects as a front-end developer. Enjoy engagement with customers, designers, and experienced mentors for feedback and code optimization.
-Resent Projects (Technologies):
+Recent Projects (Technologies):
 •	Web studio website building and test deployment (HTML, CSS, Figma, Pixel Perfect, Javascript).
 •	Aviation eCommerce website prototyping test deployment (Javascript, Parcel, Rest API, Firestore).
 •	Aviation Consulting Agency website development (HTML, CSS, Figma, Typescript, Vite, React.JS).
 
-Founder and Aviation Consultant, MORYAKOV Oy, Helsinki, Finland (Sep 2020 – Present)
+Founder and Aviation Consultant, MORYAKOV Oy, Helsinki, Finland, 2020 – Present
 Offer consulting services in commercial aircraft engine management, asset selection and evaluation, preparation for aircraft/engines delivery and re-delivery, records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management.
 Accomplishments:
 •	Provided aviation business, marketing strategy and board advisory consultancy via independent consulting agencies in EU, UK, and US, 2021 - 2023.
