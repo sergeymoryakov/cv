@@ -5,19 +5,25 @@ Email: sergey@moryakov.com
 LinkedIn: www.linkedin.com/in/sergey-moryakov
 GitHub: https://github.com/sergeymoryakov.
 
-PROFILE and TECHNICAL SKILLS
-Front-end Developer with aviation engineering team lead experience, commercial and customer service background. Practical skills in HTML, CSS, Figma, Pixel Perfect, Javascript, Typescript, Parcel, Vite, React.JS, Rest API, SQLite, Firestore, Git, GitHub, VS Code, ChatGPT, Modjourney, Slack, Discord. Academic knowledge of Assembly, Fortran, C, Python, Bootstrap, Flask, Django, OpenAI API, SQL, Colab. 
-Hungry to learn new technologies with passion to develop turnkey applications to address customer needs.
+PROFILE
+Front-end Developer with team lead experience in aviation engineering, customer service, and commercial operation. 
+Experienced in developing turnkey web applications tailored to address customer needs. Interested to join a larger software development team to build more complex solutions collaboratively, and to keep growing professionally.
+Practical skills: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API, SQLite.
+Tools/Platforms: Figma, Pixel Perfect, Bootstrap, Parcel, Vite, Git, GitHub, Firestore, VS Code, Discord, Slack.
+Academic knowledge: Assembly, Fortran, C, Python, Flask, Django, OpenAI API, SQL, Colab.
 
 EXPERIENCE
-Software Developer, MORYAKOV Oy, Helsinki, Finland, 2022 – Present
-After successful completion of a series of comprehensive courses, such as CS50 Introduction to Computer Science by HarvardX, Building AI Products with OpenAI by Uplimit, and others, actively participate in projects as a front-end developer. Enjoy engagement with customers, designers, and experienced mentors for feedback and code optimization.
-Recent Projects (Technologies):
-•	Web studio website building and test deployment (HTML, CSS, Figma, Pixel Perfect, Javascript).
-•	Aviation eCommerce website prototyping and test deployment (Javascript, Parcel, Rest API, Firestore).
-•	Aviation Consulting Agency website development (HTML, CSS, Figma, Typescript, Vite, React.JS).
+Software Developer, MORYAKOV.PRO
+Helsinki, Finland, Sep 2022 – Present
+Transitioned to software development post-completion of comprehensive courses such as CS50X Introduction to Computer Science by HarvardX, and Building AI Products with OpenAI by Uplimit. Actively engage in projects, collaborating with customers, designers, and experienced mentors for feedback and code optimization.
+Recent Projects:
+• Constructed and deployed a web studio website.
+• Prototyped and tested an aviation eCommerce website.
+• Developed a website for an Aviation Consulting Agency.
+Tech Stack: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API, SQLite, Bootstrap, Parcel, Vite, Version Control: GitHub.
 
-Founder and Aviation Consultant, MORYAKOV Oy, Helsinki, Finland, 2020 – Present
+Aviation Consultant, MORYAKOV.PRO
+Helsinki, Finland, Sep 2020 – Present
 Offer consulting services in commercial aircraft engine management, asset selection and evaluation, preparation for aircraft/engines delivery and re-delivery, records management, engine fleet planning, maintenance cost analysis and budgeting, engine shop visit planning, tendering, contracts negotiation, and management.
 Accomplishments:
 •	Provided aviation business, marketing strategy and board advisory consultancy via independent consulting agencies in EU, UK, and US, 2021 - 2023.
@@ -26,59 +32,70 @@ Accomplishments:
 •	Developed and successfully lectured an Aircraft Engine Management training program for an independent aviation training school in Kazakhstan, 2021.
 •	Provided B737 engine records audit during aircraft acceptance check for technical consultancy company in private airline in CIS region, 2021.
 
-VP Sales & Customer Service, GA Telesis Engine Services Oy, Helsinki, Finland, 2018 – 2020
-Led the global sales and customer service team, overseeing sales strategy, crafting the company's growth plan, and actively participating in the development of integrated customer solutions. 
+VP Sales & Customer Service, GA Telesis Engine Services Oy
+Helsinki, Finland, May 2018 – Aug 2020
+Headed global sales and customer service team, shaped growth plan, and developed integrated customer solutions.
 Accomplishments:
 - Successfully led the team to acquire new customers in the EU, ME, and Americas, contributing to market expansion. 
 - Attained double-digit revenue growth, meeting, and exceeding financial targets. 
 - Orchestrated a smooth transition of the team to a new CRM platform without any significant disruptions.
 
-Regional Sales Director, GE Aviation, Moscow, Russia, 2008 – 2018
+Regional Sales Director, GE Aviation
+Moscow, Russia, Oct 2008 – May 2018
 Acted as a sales and business development leader for GE Aviation business unit in Russia and CIS region.
 Accomplishments:
 - Identified new business opportunities and addressed customer concerns. 
 - Developed and executed a sales plan, leading to 200+ new aircraft engine sales and $800 million in service contracts. 
 - Leveraged cross-business opportunities to enhance the GE brand and market share.
 
-Field Service Program Manager, GE Aviation, Moscow, Russia, 2005 – 2008
+Field Service Program Manager, GE Aviation
+Moscow, Russia, Apr 2005 – Oct 2008
 Served as a first contact and a GE Aviation products expert for all GE customers in region.
 Accomplishments:
 - Provided support to about 30 customers in region covering fleet of a few hundred of flying engines.
 - Successfully assisted customers in resolving multiple AOG situations for local and transit customers. Was awarded for a teamwork with Safran.
 - Assisted sales team in promoting GE brand, products, and services.
 
-Powerplant Engineering Manager, TRANSAERO Airlines, Moscow, Russia, 2003 – 2005
-As a team leader was looking after continuous airworthiness management of the airline 200+ engines fleet.
+Powerplant Engineering Manager, TRANSAERO Airlines
+Moscow, Russia, May 2003 – Apr 2005
+Led team managing continuous airworthiness of 200+ airline engines.
 Accomplishments:
 - Successfully hired, developed, and led a team of powerplant engineering professionals.
 - Introduced 24/7 propulsion engineering support to minimize airline operation disruptions.
 - Effectively managed engine shop visit planning program and cost saving initiatives.
 
-Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines, Moscow, Russia, 1998 – 2003
-Carried out aircraft line and base maintenance, hold B1 certification for B737ADV, B737NG, and B767(GE, PW) types. Completed multiple out-of-base aircraft maintenance missions. Actively supported airline engineering team in optimizing maintenance job cards.
+Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines
+Moscow, Russia, Feb 1998 – May 2003
+Performed aircraft line and base maintenance; held B1 certification for B737ADV, B737NG, B767(GE, PW) types.
 
-Reservation Control Specialist, TRANSAERO Airlines, Moscow, Russia, 1997 -1998
-Served as an on-duty reservation officer supporting passenger and cargo reservation process. Quickly learned the Gabriel reservation system to carry out daily activity. Successfully assisted airline revenue management and operation control departments.
+Reservation Control Specialist, TRANSAERO Airlines
+Moscow, Russia, Apr 1997 – Feb 1998
+Served as an on-duty officer for passenger and cargo reservation processes.
 
 EDUCATION
 Master of Engineering and Technology (Honors), 1998
 Bachelor of Engineering and Technology, 1996
 Specialization: Operation of Aerospace Equipment
 Moscow State Technical University of Civil Aviation
+Various Professional Trainings and Certifications, such as Six Sigma Green Belt and others.
+
 Digital Certifications
--   CS50 Introduction to Computer Science, HarvardX, 2023.
+-   CS50X Introduction to Computer Science, HarvardX, 2023.
 -   Building AI Products with OpenAI, Uplimit, 2023.
 -   Front-End Development Bootcamp, SD.CODE, 2023 - Present.
 -   CS50W Web Programming with Python and JavaScript, HarvardX, 2023 - Present.
+
 Digital Skills
 -   Proficient in C, Python, HTML, CSS, JavaScript, Bootstrap, SQLite, GitHub.
 -   Familiar with Flask, React.JS, Django, and various digital tools.
+
 Aviation Certifications
 -   EASA Remote Pilot Certificate (A1/A2/A3).
 -   Aircraft Maintenance License.
 -   Various aviation technical certifications.
+
 Languages
 -   Fluent in English, basic Finnish, native Russian.
 
 INTERESTS
-Explore new travel destinations and learn new technologies such as Drones and AI.
+Passionate about discovering new travel destinations and diving into new technologies like Electric Aviation, Drones, and Artificial Intelligence.
