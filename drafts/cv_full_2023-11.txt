@@ -6,21 +6,22 @@ LinkedIn: www.linkedin.com/in/sergey-moryakov
 GitHub: https://github.com/sergeymoryakov.
 
 PROFILE
-Front-end Developer with team lead experience in aviation engineering, customer service, and commercial operation. 
-Experienced in developing turnkey web applications tailored to address customer needs. Interested to join a larger software development team to build more complex solutions collaboratively, and to keep growing professionally.
-Practical skills: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API, SQLite.
-Tools/Platforms: Figma, Pixel Perfect, Bootstrap, Parcel, Vite, Git, GitHub, Firestore, VS Code, Discord, Slack.
-Academic knowledge: Assembly, Fortran, C, Python, Flask, Django, OpenAI API, SQL, Colab.
+Front-end Developer (React.JS & TypeScript) 
+Dynamic Web Developer with a track record of building custom web applications designed to meet customer needs. Leveraging a background in aviation engineering, customer service, and commercial operations, experienced in problem solving, understanding complex systems, and delivering intelligent solutions. Committed to continuous learning and teamwork. 
+Proficiency: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API integration, Firebase back-end services.
+Development Tools: Figma, Bootstrap, Parcel, Vite, Git, GitHub, VS Code.
+Academic background: Assembly, Fortran, C, Python, Flask, Django, OpenAI API, SQLite, Colab.
 
 EXPERIENCE
 Software Developer, MORYAKOV.PRO
 Helsinki, Finland, Sep 2022 – Present
-Transitioned to software development post-completion of comprehensive courses such as CS50X Introduction to Computer Science by HarvardX, and Building AI Products with OpenAI by Uplimit. Actively engage in projects, collaborating with customers, designers, and experienced mentors for feedback and code optimization.
-Recent Projects:
-• Constructed and deployed a web studio website.
-• Prototyped and tested an aviation eCommerce website.
-• Developed a website for an Aviation Consulting Agency.
-Tech Stack: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API, SQLite, Bootstrap, Parcel, Vite, Version Control: GitHub.
+Transform UI/UX designs into code, ensuring exceptional cross-browser compatibility and seamless responsive behavior across a variety of devices. Fine-tune code for optimal performance and engage in collaborative development with Designers and Back-end Developers. Conduct thorough testing and debugging, and proactively enhance website functionality. Employ version control with GitHub, adhere to best coding practices, and stay committed to continuous learning and technology proficiency.
+Recent Projects
+•	Engineered and launched a web studio site, enhancing digital presence and client interaction.
+•	Originated a prototype for an aviation e-commerce platform, focusing on user experience and market needs.
+•	Crafted a website for an Aviation Consulting Agency, aimed at elevating their professional image and client engagement.
+•	Designed and prototyped a dynamic HR Administration application to streamline employee profile management.
+Tech Stack: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API, Firebase, SQLite, Flask, Bootstrap, Parcel, Vite, GitHub.
 
 Aviation Consultant, MORYAKOV.PRO
 Helsinki, Finland, Sep 2020 – Present
@@ -40,7 +41,7 @@ Accomplishments:
 - Attained double-digit revenue growth, meeting, and exceeding financial targets. 
 - Orchestrated a smooth transition of the team to a new CRM platform without any significant disruptions.
 
-Regional Sales Director, GE Aviation
+Sales Director, GE Aviation
 Moscow, Russia, Oct 2008 – May 2018
 Acted as a sales and business development leader for GE Aviation business unit in Russia and CIS region.
 Accomplishments:
@@ -48,7 +49,7 @@ Accomplishments:
 - Developed and executed a sales plan, leading to 200+ new aircraft engine sales and $800 million in service contracts. 
 - Leveraged cross-business opportunities to enhance the GE brand and market share.
 
-Field Service Program Manager, GE Aviation
+Field Service Engineer, GE Aviation
 Moscow, Russia, Apr 2005 – Oct 2008
 Served as a first contact and a GE Aviation products expert for all GE customers in region.
 Accomplishments:
@@ -56,7 +57,7 @@ Accomplishments:
 - Successfully assisted customers in resolving multiple AOG situations for local and transit customers. Was awarded for a teamwork with Safran.
 - Assisted sales team in promoting GE brand, products, and services.
 
-Powerplant Engineering Manager, TRANSAERO Airlines
+Powerplant Engineering Team Lead, TRANSAERO Airlines
 Moscow, Russia, May 2003 – Apr 2005
 Led team managing continuous airworthiness of 200+ airline engines.
 Accomplishments:
@@ -64,7 +65,7 @@ Accomplishments:
 - Introduced 24/7 propulsion engineering support to minimize airline operation disruptions.
 - Effectively managed engine shop visit planning program and cost saving initiatives.
 
-Aircraft Maintenance Technician/Engineer, TRANSAERO Airlines
+Aircraft Maintenance Engineer, TRANSAERO Airlines
 Moscow, Russia, Feb 1998 – May 2003
 Performed aircraft line and base maintenance; held B1 certification for B737ADV, B737NG, B767(GE, PW) types.
 
