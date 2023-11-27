@@ -1,0 +1,111 @@
+/* Reset some default browser styles */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Add a background color and some padding to the page */
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.5;
+    min-width: 400px;
+}
+
+/* Add some padding and background color to the container */
+.container-master {
+    max-width: 800px;
+    background: #fff;
+    margin: 1rem auto;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 600px) {
+    .container-master {
+        padding: 1rem;
+    }
+}
+
+/* Style the header */
+header {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* header h1 {
+    font-size: 36px;
+} */
+
+/* #profile h2 {
+    line-height: 1;
+} */
+
+.contacts,
+.photo {
+    height: 11rem;
+}
+
+@media (max-width: 600px) {
+    .contacts {
+        height: auto;
+    }
+
+    .photo {
+        display: none;
+    }
+}
+
+/* Profile Section */
+#profile {
+    margin-bottom: 20px;
+}
+
+/* Experience Section */
+#experience {
+    margin-bottom: 20px;
+}
+
+.job {
+    margin-bottom: 20px;
+}
+
+/* Education, Digital Certification, Skills, etc. */
+#education,
+#digital-certification,
+#digital-skills,
+#aviation-certification,
+#languages,
+#interests {
+    margin-bottom: 20px;
+}
+
+ul {
+    margin-left: 20px;
+    list-style-type: disc;
+}
+
+/* Hyperlinks */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
