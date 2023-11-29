@@ -6,7 +6,7 @@ LinkedIn: www.linkedin.com/in/sergey-moryakov
 GitHub: https://github.com/sergeymoryakov.
 
 PROFILE
-Front-end Developer (React.JS & TypeScript) 
+Front-end Developer (React.JS) 
 Dynamic Web Developer with a track record of building custom web applications designed to meet customer needs. Leveraging a background in aviation engineering, customer service, and commercial operations, experienced in problem solving, understanding complex systems, and delivering intelligent solutions. Committed to continuous learning and teamwork. 
 Proficiency: HTML, CSS, JavaScript, TypeScript, React.JS, Rest API integration, Firebase back-end services.
 Development Tools: Figma, Bootstrap, Parcel, Vite, Git, GitHub, VS Code.
